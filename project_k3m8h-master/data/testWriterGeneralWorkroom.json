@@ -1,0 +1,7 @@
+{
+    "goal": 2000,
+    "CalorieCounterList": [{
+        "meal": "meal",
+        "calories": 200
+    }]
+}
